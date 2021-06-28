@@ -1,0 +1,5 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<beans>
+<!--    设置使用注解的类所在的jar包-->
+    <component-scan base-package="test.controller,test.service,test.pojo,test.aop"/>
+</beans>
