@@ -25,7 +25,7 @@ JDK8以上
 # 运行步骤
 本项目主要用于学习，只要连接上TOMCAT，直接运行即可，可以打着断点根据注释进行一步一步学习
 # 测试
-本项目测试都在java包下的test里，注意是java包下的test！！！，读者大大想测试可以写在除mySpringMVC的任何包下，只要配置好正确的扫描路径即可完成测试
+本项目测试都在java包下的test里，注意是main下的java包下的test！！！，读者大大想测试可以写在除mySpringMVC的任何包下，只要配置好正确的扫描路径即可完成测试
 # 致谢和参考
 Spring源码
 博文：Spring IOC 容器源码分析：https://javadoop.com/post/spring-ioc
